@@ -1,0 +1,20 @@
+@import url("style/header.css");
+body {
+    background-color: rgba(36, 97, 59, 0.534);
+}
+.container img{
+    max-width:200px;
+    max-height: 100px;
+    width:auto;
+    height: auto;
+}
+
+.h1 {
+    color:rgb(3, 82, 16);
+}
+
+.h2 {
+
+    color:rgb(63, 90, 71);
+    
+}
