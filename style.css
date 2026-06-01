@@ -1,12 +1,14 @@
 @import url("style/header.css");
 body {
-    background-color: rgba(36, 97, 59, 0.534);
+    background-color: rgba(77, 144, 103, 0.534);
 }
 .container img{
     max-width:200px;
     max-height: 100px;
     width:auto;
     height: auto;
+    width:40%;
+    height:40%;
 }
 
 .h1 {
